@@ -29,7 +29,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Gatsby Starter Contentful Homepage",
+        name: "Onandi Stewart Web Portfolio",
         short_name: "Gatsby",
         start_url: "/",
         // These can be imported once ESM support lands

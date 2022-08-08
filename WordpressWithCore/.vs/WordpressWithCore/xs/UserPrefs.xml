@@ -1,0 +1,29 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{FC7AC9D1-9D28-4A72-B617-7624BA4D6B65}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordpressWithCore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordpressWithCore/appsettings.json">
+    <Files>
+      <File FileName="WordpressWithCore/Startup.cs" Line="20" Column="36" />
+      <File FileName="WordpressWithCore/Program.cs" Line="1" Column="1" />
+      <File FileName="WordpressWithCore/appsettings.json" Line="20" Column="1" />
+      <File FileName="WordpressWithCore/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordpressWithCore" expanded="True">
+            <Node name="WordpressWithCore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

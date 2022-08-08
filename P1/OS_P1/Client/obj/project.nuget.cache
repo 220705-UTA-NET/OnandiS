@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMnP+4sGbuqotYPSNUnuvhYElJ7iMVrtDRO+MVNugNxicZCyJ8685qBHVuQT6q0TOPH1K8MkuTe6FNszAEsiRQ==",
+  "success": true,
+  "projectFilePath": "/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/nandiflipzz/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

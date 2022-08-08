@@ -1,4 +1,5 @@
 import * as React from "react"
+import App from "../pages/App";
 import { graphql, useStaticQuery } from "gatsby"
 import { Menu, X } from "react-feather"
 import {
@@ -157,6 +158,7 @@ export default function Header() {
           </nav>
         </div>
       )}
+       
     </header>
   )
 }

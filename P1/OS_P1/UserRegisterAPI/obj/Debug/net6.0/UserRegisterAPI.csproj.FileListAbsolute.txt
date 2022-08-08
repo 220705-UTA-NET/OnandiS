@@ -1,0 +1,122 @@
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.exe
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.deps.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.runtimeconfig.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.pdb
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Humanizer.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.AssemblyReference.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.AssemblyInfoInputs.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.AssemblyInfo.cs
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.CoreCompileInputs.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/scopedcss/bundle/UserRegisterAPI.styles.css
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.CopyComplete
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/refint/UserRegisterAPI.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.pdb
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.genruntimeconfig.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/ref/UserRegisterAPI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/appsettings.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.deps.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.runtimeconfig.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/UserRegisterAPI.pdb
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.AssemblyReference.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.AssemblyInfoInputs.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.AssemblyInfo.cs
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.CoreCompileInputs.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/scopedcss/bundle/UserRegisterAPI.styles.css
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.csproj.CopyComplete
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/refint/UserRegisterAPI.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.pdb
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/UserRegisterAPI.genruntimeconfig.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/UserRegisterAPI/obj/Debug/net6.0/ref/UserRegisterAPI.dll

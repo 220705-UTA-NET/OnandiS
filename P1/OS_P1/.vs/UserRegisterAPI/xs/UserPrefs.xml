@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="Multiple">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple" Name="Multiple">
+      <Items>
+        <StartupItem ItemId="{4F177429-4CA5-4E48-855D-2E35411A0193}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{742ADD4E-5D9F-40EF-9AD9-A3ECA6B70B0F}" ItemName="UserRegisterAPI" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UserRegisterAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

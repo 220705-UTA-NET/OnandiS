@@ -1,0 +1,34 @@
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.exe
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.deps.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.pdb
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/refint/Client.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.pdb
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/ref/Client.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/chaki/Desktop/Work/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.deps.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Client.pdb
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/refint/Client.dll
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.pdb
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/Users/nandiflipzz/Revature/220705UTANET /OnandiS/ServiceOrientedArchitechture/UserRegisterAPI/Client/obj/Debug/net6.0/ref/Client.dll
